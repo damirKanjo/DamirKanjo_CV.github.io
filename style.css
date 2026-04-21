@@ -117,7 +117,8 @@ h1.brand {
 }
 
 .nav-item {
-    border-left: 1px solid rgb(0, 0, 0) !important;
+    text-decoration: underline;
+    text-underline-offset: 5px;
 }
 
 .nav-link{
