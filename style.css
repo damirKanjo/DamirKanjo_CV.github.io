@@ -116,9 +116,10 @@ h1.brand {
     text-align: left;
 }
 
-.nav-item {
+.nav-item:hover {
     text-decoration: underline;
     text-underline-offset: 5px;
+    transition: 0.25s;
 }
 
 .nav-link{
@@ -126,11 +127,6 @@ h1.brand {
     min-width: 200px;
     margin-right: 30px;
     text-align: left;
-}
-
-.nav-link:hover {
-    font-weight: 900;
-    transition: 0.25s;
 }
 
 button:active{
