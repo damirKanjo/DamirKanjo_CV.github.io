@@ -15,12 +15,8 @@
 }
 
 .img{
-    position: relative;
-    top: -50px;
-    left: 50px;
     height: 350px;
     width: 310px;
-    border-radius: 50px;
     background-image: url('imgs/profil.png');
     background-size: contain;
     background-repeat: no-repeat;
