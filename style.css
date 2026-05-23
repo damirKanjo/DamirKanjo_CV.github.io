@@ -17,7 +17,7 @@ html {
 }
 
 .navbar{
-    position: absolute;
+    position: relative;
     padding-top: 100px;
     margin: auto;
     background-color:  #363945;
