@@ -22,7 +22,7 @@ body {
 
 .navbar{
     position: relative;
-    padding-top: 100px;
+    top: 100px;
     margin: auto;
     background-color:  #363945;
     border-radius: 80px;
