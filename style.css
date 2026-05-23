@@ -1,7 +1,11 @@
 html {
     font-family: 'Lato', sans-serif;
     box-sizing: content-box !important;
+}
+
+body {
     background-color: #000000;
+    padding-bottom: 150px;
 }
 
 *{
